@@ -1,0 +1,88 @@
+MEAN Stack
+    >> M: MongoDB
+    >> E: ExpressJs
+    >> A: Angular
+    >> N: NodeJs
+
+
+THree Pillars
+    >> HTML (Hyper Text Markup Language)
+    >> CSS (Cascading Style Sheets)
+    >> Js(Java-script)
+
+
+Other Stacks
+    >> MEAN, MERN, Java Full Stack
+  
+Web Dev
+    >> Building/Development Team
+    >> Testing Team (Manual Testers/Automated Testers)
+    >> Hosting Team (DevOps Team)
+    >> Maintenance Team/Support Team
+
+SDLC (Software Development Life Cycle):
+    >> WaterFall Model
+    >> Agile Model
+    >> Spiral Model
+    >> Iterative Model
+    >> Incremental Model
+    >> V Shaped Model
+    >> RAD (Rapid Application Development) Model
+
+index.html
+styles.css
+script.js
+
+URL (Uniform Resource Locator):
+    hhtps://education.webDev.edu/FullStack
+
+    https: Protocol
+    webDev: Server/Domain Name
+    education: Subdomain
+    .edu: TLD (Top-Level Domain)
+    FullStack: page
+
+    Protocol: A set of rules/instructions
+          >> http: hyper text transfer Protocol
+          >> https: hyper text transfer Protocol secure
+          >> ftp: file transfer Protocol
+          >> smtp: simple mail transfer Protocol
+          >> tcp: transmission control Protocol
+          >> udp: userdatagram Protocol
+          >> ip: internet Protocol (ipV4 & ipV6)
+
+          >> Client/Web Page------------(uName & uPwd)-----------------> Instagram Server
+          >> http --- ssl (Secure Socket Layer) Certification ---> https 
+
+
+Server/Domain Name:
+      >> Unique Identifier
+        >> Eg: Google,Amazon
+Sub-Domain Name:
+      >> gMeet
+      >> gMaps
+      >> gDrive
+      >> Gmail
+      >> gPhotos
+      >> gFiles
+      >> gClassroom
+      >> gCalendar
+      >> gPay
+
+
+      >> Amazon Shopping
+      >> AWS
+
+TLD(Top Level Domain):
+      >> .com: commercial
+      >> .org: organization
+      >> .edu: education
+      >> .gov: government
+      >> .net: network
+
+
+
+
+
+
+      
